@@ -18,6 +18,18 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
+                 .driner{
+                color: black;
+                margin: 0 auto;
+                font-size: 60px;
+
+            }
+            span {
+                    color: red;
+                }
+            }
+
+            
         </style>
     </head>
     <body class="antialiased">
