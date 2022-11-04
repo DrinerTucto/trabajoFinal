@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -39,9 +41,7 @@
                 color: red;
             }
 
-            }
-           
-         
+             
         </style>
     </head>
     <body class="antialiased">
