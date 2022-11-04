@@ -27,9 +27,14 @@
             span {
                     color: red;
                 }
+            h1:hover{
+                background-color: aqua;
+                
             }
 
-            
+            }
+           
+         
         </style>
     </head>
     <body class="antialiased">
