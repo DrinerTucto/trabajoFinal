@@ -50,8 +50,9 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
+                <a href="https://github.com/DrinerTucto/trabajoFinal/blob/main/resources/views/welcome.blade.php">
                 <h1 class="driner"><span>D</span>riner <span>T</span>ucto  <span>N</span>ieto</h1>
-
+                </a>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
