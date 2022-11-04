@@ -29,6 +29,8 @@
                 }
             h1:hover{
                 background-color: aqua;
+                color: blues;
+
                 
             }
 
